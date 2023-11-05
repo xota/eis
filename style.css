@@ -1,6 +1,5 @@
 body {
-  background-color: pink;
-  text-align: center;
+  background-color: salmon;
   font-family: "Helvetica", "sans serif"
 }
 
@@ -12,7 +11,7 @@ h1 {
 
 h2 {
   text-size: 130%;
-  color: purple;
+  color: blue;
   background-color: yellow;
 }
 
