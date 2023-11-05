@@ -1,13 +1,15 @@
 body {
   background-color: pink;
   text-align: center;
+  font-family: "Helvetica", "sans serif"
 }
 
 h1 {
   text-size: 150%;
   color: purple;
-
+  background-color: yellow;
 }
+
 h2 {
   
 }
