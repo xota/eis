@@ -11,7 +11,16 @@ h1 {
 }
 
 h2 {
-  
+  text-size: 130%;
+  color: purple;
+  background-color: yellow;
 }
+
+h3 {
+  text-size: 120%;
+  color: yellow;
+  background-color: purple;
+}
+
 
 {p text-align: left}
